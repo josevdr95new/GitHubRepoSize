@@ -1,7 +1,7 @@
 (() => {
     // Configuración de estilos
     const CONFIG = {
-        decimalPrecision: 4,
+        decimalPrecision: 6,
         measurementUnit: 'MB',
         styles: {
             container: `

@@ -1,6 +1,5 @@
 # GitHub Repo Size - Chrome Extension
 
-![Extension Icon](sample.png)  
 **Muestra el tamaño de repositorios de GitHub directamente en la página del repositorio**
 
 ---
